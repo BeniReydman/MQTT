@@ -1,0 +1,359 @@
+=::: ::\
+ACLOCAL_PATH: C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\Beni Reydman\AppData\Roaming
+CARGO: \\?\C:\Users\Beni Reydman\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin\cargo.exe
+CARGO_CFG_TARGET_ARCH: x86_64
+CARGO_CFG_TARGET_ENDIAN: little
+CARGO_CFG_TARGET_ENV: msvc
+CARGO_CFG_TARGET_FAMILY: windows
+CARGO_CFG_TARGET_FEATURE: fxsr,sse,sse2
+CARGO_CFG_TARGET_OS: windows
+CARGO_CFG_TARGET_POINTER_WIDTH: 64
+CARGO_CFG_TARGET_VENDOR: pc
+CARGO_CFG_WINDOWS: 
+CARGO_FEATURE_DEFAULT: 1
+CARGO_FEATURE_DEV_URANDOM_FALLBACK: 1
+CARGO_FEATURE_USE_HEAP: 1
+CARGO_HOME: C:\Users\Beni Reydman\.cargo
+CARGO_MAKEFLAGS: --jobserver-fds=__rust_jobserver_semaphore_2977322036 --jobserver-auth=__rust_jobserver_semaphore_2977322036
+CARGO_MANIFEST_DIR: C:\Users\Beni Reydman\.cargo\registry\src\github.com-1ecc6299db9ec823\ring-0.14.6
+CARGO_MANIFEST_LINKS: ring-asm
+CARGO_PKG_AUTHORS: Brian Smith <brian@briansmith.org>
+CARGO_PKG_DESCRIPTION: Safe, fast, small crypto using Rust.
+CARGO_PKG_HOMEPAGE: 
+CARGO_PKG_NAME: ring
+CARGO_PKG_REPOSITORY: https://github.com/briansmith/ring
+CARGO_PKG_VERSION: 0.14.6
+CARGO_PKG_VERSION_MAJOR: 0
+CARGO_PKG_VERSION_MINOR: 14
+CARGO_PKG_VERSION_PATCH: 6
+CARGO_PKG_VERSION_PRE: 
+COMMONPROGRAMFILES: C:\Program Files\Common Files
+COMMONPROGRAMFILES(X86): C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432: C:\Program Files\Common Files
+COMPUTERNAME: DESKTOP-F5UTAVH
+COMSPEC: C:\WINDOWS\system32\cmd.exe
+CONFIG_SITE: C:/Program Files/Git/mingw64/etc/config.site
+DEBUG: false
+DISPLAY: needs-to-be-defined
+DRIVERDATA: C:\Windows\System32\Drivers\DriverData
+EXEPATH: C:\Program Files\Git
+FPS_BROWSER_APP_PROFILE_STRING: Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING: Default
+HOME: C:\Users\Beni Reydman
+HOMEDRIVE: C:
+HOMEPATH: \Users\Beni Reydman
+HOST: x86_64-pc-windows-msvc
+HOSTNAME: DESKTOP-F5UTAVH
+INFOPATH: C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+LANG: en_US.UTF-8
+LD_LIBRARY_PATH: C:\Users\Beni Reydman\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib
+LOCALAPPDATA: C:\Users\Beni Reydman\AppData\Local
+LOGONSERVER: \\DESKTOP-F5UTAVH
+MANPATH: C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+MINGW_CHOST: x86_64-w64-mingw32
+MINGW_PACKAGE_PREFIX: mingw-w64-x86_64
+MINGW_PREFIX: C:/Program Files/Git/mingw64
+MOSQUITTO_DIR: C:\Program Files\mosquitto
+MSYSTEM: MINGW64
+MSYSTEM_CARCH: x86_64
+MSYSTEM_CHOST: x86_64-w64-mingw32
+MSYSTEM_PREFIX: C:/Program Files/Git/mingw64
+MTPPKROOT: C:\WMSDK\MTPPK12\Responder
+NUMBER_OF_PROCESSORS: 8
+NUM_JOBS: 8
+ONEDRIVE: C:\Users\Beni Reydman\OneDrive
+OPT_LEVEL: 3
+ORIGINAL_PATH: C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Beni Reydman\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\QuickTime\QTSystem;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\nodejs;C:\MinGW\bin;C:\Program Files\LLVM\bin;C:\Program Files\CMake\bin;C:\Program Files\TortoiseHg;C:\Users\Beni Reydman\.cargo\bin;C:\Users\Beni Reydman\AppData\Local\Microsoft\WindowsApps;C:\Users\Beni Reydman\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Beni Reydman\AppData\Roaming\npm;C:\Program Files (x86)\Mercurial
+ORIGINAL_TEMP: C:/Users/Beni Reydman/AppData/Local/Temp
+ORIGINAL_TMP: C:/Users/Beni Reydman/AppData/Local/Temp
+OS: Windows_NT
+OUT_DIR: C:\Users\Beni Reydman\Documents\Work\Rust Code\SubPub\MQTT\AirSENCE\target\release\build\ring-4151bcedff030cdd\out
+PATH: C:\Users\Beni Reydman\Documents\Work\Rust Code\SubPub\MQTT\AirSENCE\target\release\deps;C:\Users\Beni Reydman\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin;C:\Users\Beni Reydman\.cargo\bin;C:\Users\Beni Reydman\.rustup\toolchains\stable-x86_64-pc-windows-msvc\bin;C:\Users\Beni Reydman\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Beni Reydman\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\QuickTime\QTSystem;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\nodejs;C:\MinGW\bin;C:\Program Files\LLVM\bin;C:\Program Files\CMake\bin;C:\Program Files\TortoiseHg;C:\Users\Beni Reydman\.cargo\bin;C:\Users\Beni Reydman\AppData\Local\Microsoft\WindowsApps;C:\Users\Beni Reydman\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Beni Reydman\AppData\Roaming\npm;C:\Program Files (x86)\Mercurial;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PKG_CONFIG_PATH: C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig
+PLINK_PROTOCOL: ssh
+PROCESSOR_ARCHITECTURE: AMD64
+PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL: 6
+PROCESSOR_REVISION: 3c03
+PROFILE: release
+PROGRAMDATA: C:\ProgramData
+PROGRAMFILES: C:\Program Files
+PROGRAMFILES(X86): C:\Program Files (x86)
+PROGRAMW6432: C:\Program Files
+PS1: \[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+PSMODULEPATH: C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files\Intel\
+PUBLIC: C:\Users\Public
+PWD: C:/Users/Beni Reydman/Documents/Work/Rust Code/SubPub/MQTT/AirSENCE
+RUSTC: rustc
+RUSTDOC: rustdoc
+RUSTUP_HOME: C:\Users\Beni Reydman\.rustup
+RUSTUP_TOOLCHAIN: stable-x86_64-pc-windows-msvc
+RUST_RECURSION_COUNT: 1
+SESSIONNAME: Console
+SHELL: C:\Program Files\Git\usr\bin\bash.exe
+SHLVL: 1
+SSH_ASKPASS: C:/Program Files/Git/mingw64/libexec/git-core/git-gui--askpass
+SYSTEMDRIVE: C:
+SYSTEMROOT: C:\WINDOWS
+TARGET: x86_64-pc-windows-msvc
+TEMP: C:\Users\Beni Reydman\AppData\Local\Temp
+TERM: xterm
+TMP: C:\Users\Beni Reydman\AppData\Local\Temp
+TMPDIR: C:\Users\Beni Reydman\AppData\Local\Temp
+USERDOMAIN: DESKTOP-F5UTAVH
+USERDOMAIN_ROAMINGPROFILE: DESKTOP-F5UTAVH
+USERNAME: Beni Reydman
+USERPROFILE: C:\Users\Beni Reydman
+VS140COMNTOOLS: C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+WINDIR: C:\WINDOWS
+_: C:/Users/Beni Reydman/.cargo/bin/cargo
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\block.obj" "crypto/block.c"
+block.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\generic.obj" "crypto/fipsmodule/bn/generic.c"
+generic.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\montgomery.obj" "crypto/fipsmodule/bn/montgomery.c"
+montgomery.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\montgomery_inv.obj" "crypto/fipsmodule/bn/montgomery_inv.c"
+montgomery_inv.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\crypto.obj" "crypto/crypto.c"
+crypto.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\ecp_nistz.obj" "crypto/fipsmodule/ec/ecp_nistz.c"
+ecp_nistz.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\ecp_nistz256.obj" "crypto/fipsmodule/ec/ecp_nistz256.c"
+ecp_nistz256.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\gfp_p256.obj" "crypto/fipsmodule/ec/gfp_p256.c"
+gfp_p256.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\gfp_p384.obj" "crypto/fipsmodule/ec/gfp_p384.c"
+gfp_p384.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\limbs.obj" "crypto/limbs/limbs.c"
+limbs.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\mem.obj" "crypto/mem.c"
+mem.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\gcm.obj" "crypto/fipsmodule/modes/gcm.c"
+gcm.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\curve25519.obj" "third_party/fiat/curve25519.c"
+curve25519.c
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\cpu-intel.obj" "crypto/cpu-intel.c"
+cpu-intel.c
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\lib.exe" "-out:C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\libring-core.a" "-nologo" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\aes-x86_64-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\aesni-x86_64-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\vpaes-x86_64-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\x86_64-mont-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\x86_64-mont5-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\chacha-x86_64-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\p256-x86_64-asm-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\aesni-gcm-x86_64-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\ghash-x86_64-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\poly1305-x86_64-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\sha512-x86_64-nasm.obj" "C:\\Users\\Beni Reydman\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.14.6\\pregenerated\\sha256-x86_64-nasm.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\block.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\generic.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\montgomery.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\montgomery_inv.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\crypto.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\ecp_nistz.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\ecp_nistz256.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\gfp_p256.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\gfp_p384.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\limbs.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\mem.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\gcm.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\curve25519.obj" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\cpu-intel.obj"
+exit code: 0
+cargo:rustc-link-lib=static=ring-core
+OPT_LEVEL = Some("3")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("false")
+running "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-O2" "-Brepro" "-I" "include" "-W4" "/GS" "/Gy" "/EHsc" "/GR-" "/Zc:wchar_t" "/Zc:forScope" "/Zc:inline" "/Zc:rvalueCast" "/sdl" "/Wall" "/wd4127" "/wd4464" "/wd4514" "/wd4710" "/wd4711" "/wd4820" "/wd5045" "/Ox" "-DNDEBUG" "-c" "/FoC:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\constant_time_test.obj" "crypto/constant_time_test.c"
+constant_time_test.c
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.25.28610\\bin\\HostX64\\x64\\lib.exe" "-out:C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\libring-test.a" "-nologo" "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\SubPub\\MQTT\\AirSENCE\\target\\release\\build\\ring-4151bcedff030cdd\\out\\constant_time_test.obj"
+exit code: 0
+cargo:rustc-link-lib=static=ring-test
+cargo:rustc-link-search=native=C:\Users\Beni Reydman\Documents\Work\Rust Code\SubPub\MQTT\AirSENCE\target\release\build\ring-4151bcedff030cdd\out

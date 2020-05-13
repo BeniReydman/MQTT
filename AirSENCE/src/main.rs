@@ -20,31 +20,35 @@ const SERVER_IP: &str = "127.0.0.1";
 const SERVER_PORT: u16 = 1883;
 
 fn main() {
+    let result = publish("C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\toml_reader\\files\\config.toml");
+    match result {
+        Ok(_) => println!("Success!"),
+        Err(_) => println!("Unsuccessful.")
+    }
+}
+
+pub fn publish(path: &str) ->Result<(), MyError>{
     // Serialize toml config to a msgpack
-    let buf = match serialize_toml("C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\toml_reader\\files\\config.toml") {
+    let buf = match serialize_toml(path) {
         Ok(buf) => buf,
-        _ => return
+        Err(error) => return Err(error)
     };
 
-    // Create server for testing
+    // Initialize MQTT server settings
     info!("Initiating MQTT Client.");
     let mqtt_options = MqttOptions::new("Pgm2", SERVER_IP, SERVER_PORT);
     let (mut mqtt_client, notifications) = MqttClient::start(mqtt_options).unwrap();
     
+    // Subscribe and then publish request
     mqtt_client.subscribe("Test", QoS::AtLeastOnce).unwrap();
     info!("Listening for requests.");
     mqtt_client.publish("Test", QoS::AtLeastOnce, false, buf.clone()).unwrap();
 
-    // let notification = notifications.recv(); // -> To recv only 1
-    // println!("{:?}", notification);
-    for notification in notifications {
-        info!("Received request.");
-        println!("{:?}", notification);
-    }
-    
-    // let mut de = Deserializer::new(&buf[..]);
-    // let res: Config = Deserialize::deserialize(&mut de).unwrap();
-    // println!("Deserialized to: \n{:?}", res);
+    // Receive single return value
+    let notification = notifications.recv(); 
+    println!("{:?}", notification);
+
+    Ok(())
 }
 
 /***
@@ -72,5 +76,28 @@ fn serialize_toml(path: &str) ->Result<Vec<u8>, MyError> {
             warn!("Error serializing: {:?}", e);
             return Err(MyError::SerializeError)
         }
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn real_path() {
+        let real_path = "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\toml_reader\\files\\config.toml";
+        assert!(serialize_toml(real_path).is_ok());
+    }
+
+    #[test]
+    fn fake_path() {
+        let fake_path = "blah blah";
+        assert!(serialize_toml(fake_path).is_err());
+    }
+
+    #[test]
+    fn bad_file() {
+        let fake_path = "C:\\Users\\Beni Reydman\\Documents\\Work\\Rust Code\\Broker\\AirSENCE\\toml_reader\\files\\config.toml";
+        assert!(serialize_toml(fake_path).is_err());
     }
 }

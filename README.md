@@ -8,8 +8,8 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-AirSENCE = { git = "https://github.com/BeniReydman/MQTT/tree/master/AirSENCE" }
-Client = { git = "https://github.com/BeniReydman/MQTT/tree/master/Client" }
+airsence = { git = "https://github.com/BeniReydman/MQTT/tree/master/AirSENCE" }
+client = { git = "https://github.com/BeniReydman/MQTT/tree/master/Client" }
 ```
 
 ### Run
