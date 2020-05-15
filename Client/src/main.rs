@@ -36,6 +36,6 @@ fn main() {
 
 pub fn print_notification(payload: Vec<u8>) {
     let mut de = Deserializer::new(&payload[..]);
-    let res: Config = Deserialize::deserialize(&mut de).unwrap();
+    let res: RawData = Deserialize::deserialize(&mut de).unwrap();
     println!("Deserialized to: \n{:?}", res);
 }
